@@ -1,7 +1,7 @@
 public class aImportantThink {
     public static void main(String args[]) {
-        char ch = 'a';
-        int b = ch;
-        System.out.println(b);
+        char ch = 'b';
+        int c = ch;
+        System.out.println(c);
     }
 }
