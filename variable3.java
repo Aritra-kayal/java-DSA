@@ -10,5 +10,7 @@ public class variable3 {
         System.out.println(name);
         a = 20;
         System.out.println(a);
+        name = "Liverpool FC";
+        System.out.println(name);
     }
 }
